@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://34.228.9.159:8081/repository/nodejs-snapshots/"
+    "registry": "http://34.228.9.159:8081/repository/cashapp-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
